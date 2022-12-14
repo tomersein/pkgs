@@ -3,7 +3,6 @@ module github.com/asciimoo/wuzz
 go 1.14
 
 require (
-	github.com/prometheus/exporter-toolkit v0.0.0
 	github.com/BurntSushi/toml v0.3.1
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/alessio/shellescape v1.2.2
